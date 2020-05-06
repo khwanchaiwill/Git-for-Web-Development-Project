@@ -93,7 +93,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
-       inline element is the element to occupy in 
+       inline element is the element to occupy the text in line can style. block element is the element to show default the whole block
     2. What happens when an element is positioned absolutely? 
        The result will show the style in that element as we valued it.
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
