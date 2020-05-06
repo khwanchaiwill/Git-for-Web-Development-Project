@@ -1,3 +1,4 @@
+git-for-web-development-project
  [x] Add your TL as a collaborator
 - [x] Clone this repo
 - [x] Create a branch `git checkout -b 'firstName-lastName'`
